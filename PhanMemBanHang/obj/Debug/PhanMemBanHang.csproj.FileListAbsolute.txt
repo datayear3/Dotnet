@@ -8,3 +8,13 @@ C:\Users\minhc\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBan
 C:\Users\minhc\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.csproj.CoreCompileInputs.cache
 C:\Users\minhc\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.exe
 C:\Users\minhc\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.pdb
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\bin\Debug\PhanMemBanHang.exe.config
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\bin\Debug\PhanMemBanHang.exe
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\bin\Debug\PhanMemBanHang.pdb
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.csprojAssemblyReference.cache
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.formlogin.resources
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.Properties.Resources.resources
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.csproj.GenerateResource.cache
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.exe
+C:\Users\TUF GAMING\Source\Repos\datayear3\Dotnet\PhanMemBanHang\obj\Debug\PhanMemBanHang.pdb
